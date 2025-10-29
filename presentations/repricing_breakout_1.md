@@ -98,6 +98,7 @@ title: Gas repricing Breakout Room \#1 slides
 - [EIP-8037](https://eips.ethereum.org/EIPS/eip-8037): State Creation Gas Cost Increase by @misilva73
 - [EIP-8038](https://eips.ethereum.org/EIPS/eip-8038): State-access gas cost update by @misilva73
 - [EIP-8058](https://github.com/ethereum/EIPs/pull/10585): Contract Bytecode by Deduplication Discount by @CPerezz
+- [EIP-2926](https://eips.ethereum.org/EIPS/eip-2926): Chunk-Based Code Merkleization by @gballet
 
 ---
 
